@@ -1,0 +1,7 @@
+.userList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.usersList > *{
+    margin: 10px
+}
